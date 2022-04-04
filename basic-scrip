@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#my basic script
+#date of jan
+
+whoami
+echo
+pwd
+echo
+hostname
+echo
+ls -ltr
+echo
